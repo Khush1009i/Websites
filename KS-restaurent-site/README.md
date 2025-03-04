@@ -19,4 +19,6 @@ A beautifully crafted **restaurant landing page** designed to highlight mouth-wa
 
  
 
-🔗 **[Live Demo](https://github.com/Khush1009i/Websites-crate-/tree/main/KS-restaurent-site)**
+🔗 **[Live Demo](https://mellow-flower.netlify.app/)**
+
+---
