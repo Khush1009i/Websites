@@ -18,6 +18,6 @@ A power-packed **gym website** built to **motivate, engage, and convert visitors
 💡 *Built for fitness enthusiasts, personal trainers, and gym owners looking to boost their online presence!*  
 
  
-🔗 **[Live Demo](https://github.com/Khush1009i/Websites-crate-/tree/main/gym-site)**
+🔗 **[Live Demo](https://the-gymmer-site.netlify.app/)**
 
 ---
